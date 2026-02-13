@@ -5,7 +5,7 @@
 // @description  한국 + 해외 광고 완벽 차단 (Ultimate Global Edition)
 // @author       neramc
 // @homepage     https://github.com/neramc/k-filter
-// @icon         https://i.ibb.co/Qv2D12pZ/33.png
+// @icon         https://i.ibb.co/3yJZTb26/37.png
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
