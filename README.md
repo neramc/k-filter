@@ -164,6 +164,7 @@ MIT License - 자유롭게 사용, 수정, 배포 가능
 <div align="center">
   Made with ❤️ by <a href="https://github.com/neramc">neramc</a>
 </div>
+
 > [!NOTE]
 > *해당 프로젝트는 자료 수집과 반복코드 작성부분에서 Claude 의 도움을 받았습니다.*
 
