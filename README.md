@@ -1,7 +1,7 @@
 # K-FILTER
 
 <div align="center">
-  <img src="https://i.ibb.co/Qv2D12pZ/33.png" alt="K-FILTER Logo" width="120"/>
+  <img src="https://i.ibb.co/Qv2D12pZ/33.png" alt="K-FILTER Logo"/>
   
   <h3>한국 + 해외 광고 완벽 차단 필터</h3>
   
