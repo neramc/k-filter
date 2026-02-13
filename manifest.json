@@ -1,0 +1,54 @@
+{
+  "name": "K-FILTER",
+  "description": "한국 + 해외 광고 완벽 차단 필터",
+  "homepage": "https://github.com/neramc/k-filter",
+  "icon": "https://i.ibb.co/Qv2D12pZ/33.png",
+  "license": "MIT",
+  "filters": [
+    {
+      "name": "K-FILTER Ultra",
+      "description": "한국 + 해외 광고 네트워크 완벽 차단 (최강 버전)",
+      "version": "5.0.0",
+      "last_updated": "2026/02/13 | 21:55 KST",
+      "file": "filter_ultra.txt",
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_ultra.txt",
+      "sha256": "8e8568fa2fb2090bcdd48b6228b900953b322626448589ced06d66668f369189",
+      "lines": 788,
+      "update_info": {
+        "commit_title": "Initial release: K-FILTER Ultra Edition",
+        "commit_message": "Added 44+ ad networks blocking (Korean 14 + International 30). Features: Anti-Adblock bypass, Shadow DOM blocking, Dynamic script injection blocking, Bait ad removal. Complete global ad blocking solution.",
+        "commit_date": "2026-02-13T21:55:00+09:00"
+      }
+    },
+    {
+      "name": "K-FILTER Base",
+      "description": "한국 광고 네트워크 + 주요 사이트 최적화",
+      "version": "3.0.1",
+      "last_updated": "2026/02/13 | 21:55 KST",
+      "file": "filter_base.txt",
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_base.txt",
+      "sha256": "ba89d834717cc11a2ef0e31153cb1e176042975cf58c80837f6bbb37da23d47d",
+      "lines": 858,
+      "update_info": {
+        "commit_title": "Initial release: K-FILTER Base Edition",
+        "commit_message": "Korean ad networks blocking with comprehensive site-specific rules. Optimized for Naver, Kakao, Daum, DCInside, and other major Korean sites.",
+        "commit_date": "2026-02-13T21:55:00+09:00"
+      }
+    },
+    {
+      "name": "K-FILTER Relieved",
+      "description": "핵심 광고만 차단 (사이트 호환성 우선)",
+      "version": "4.0.0",
+      "last_updated": "2026/02/13 | 21:55 KST",
+      "file": "filter_relieved.txt",
+      "jsdelivr_url": "https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_relieved.txt",
+      "sha256": "3a107d502c4fcd3a440fa1cd2f1bf08c13bf91d6f4d593b4db94a26ff23777ab",
+      "lines": 183,
+      "update_info": {
+        "commit_title": "Initial release: K-FILTER Relieved Edition",
+        "commit_message": "Gentle ad blocking for maximum site compatibility. Blocks only core ad networks. Perfect for users who prioritize site functionality.",
+        "commit_date": "2026-02-13T21:55:00+09:00"
+      }
+    }
+  ]
+}
