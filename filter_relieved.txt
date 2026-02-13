@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Title: Blocking ads more (Relieved Edition)
+! Title: K-Filter(Relieved)
 ! Description: 한국 업체들 위주로 작성했습니다. (완화 버전 - 핵심 광고만 차단)
-! Homepage: https://github.com/neramc/neramc
-! Last modified: 2026-02-12
+! Homepage: https://github.com/neramc/k-filter
+! Last modified: 2026-02-14
 ! Expires: 3 days
-! License: https://github.com/neramc/neramc
+! License: MIT License
 ! Version: 4.0.0 RELIEVED EDITION
 
 !--------------------------!
