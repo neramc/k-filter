@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
-! Title: Blocking ads more (ULTIMATE GLOBAL EDITION)
+! Title: K-Filter(Ultra)
 ! Description: 한국 + 해외 광고업체 완벽 차단 버전
-! Homepage: https://github.com/neramc/neramc
-! Last modified: 2026-02-12
+! Author: neramc
+! Homepage: https://github.com/neramc/k-filter
+! Last modified: 2026-02-14
 ! Expires: 1 days
-! License: https://github.com/neramc/neramc
-! Version: 5.0.0 ULTIMATE GLOBAL EDITION
+! License: MIT License
+! Version: 5.0.0 Ultra Edition
 
 !--------------------------!
 !----- General JS API -----!
