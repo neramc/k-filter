@@ -18,7 +18,7 @@
 **44개 광고 네트워크 차단** (한국 14개 + 해외 30개)
 
 ```
-https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_ultra.txt
+https://cdn.jsdelivr.net/gh/neramc/k-filter@latest/filter_ultra.txt
 ```
 
 **SHA-256**: `8e8568fa2fb2090bcdd48b6228b900953b322626448589ced06d66668f369189`
@@ -39,7 +39,7 @@ https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_ultra.txt
 **한국 사이트 최적화 + 주요 광고 네트워크 차단**
 
 ```
-https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_base.txt
+https://cdn.jsdelivr.net/gh/neramc/k-filter@latest/filter_base.txt
 ```
 
 **SHA-256**: `ba89d834717cc11a2ef0e31153cb1e176042975cf58c80837f6bbb37da23d47d`
@@ -58,7 +58,7 @@ https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_base.txt
 **핵심 광고만 차단 (사이트 호환성 우선)**
 
 ```
-https://cdn.jsdelivr.net/gh/neramc/k-filter@main/filter_relieved.txt
+https://cdn.jsdelivr.net/gh/neramc/k-filter@latest/filter_relieved.txt
 ```
 
 **SHA-256**: `3a107d502c4fcd3a440fa1cd2f1bf08c13bf91d6f4d593b4db94a26ff23777ab`
